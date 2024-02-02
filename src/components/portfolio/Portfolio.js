@@ -37,12 +37,12 @@ const Portfolio = () => {
 
         <article className="project">
           <div className="proj-left">
-            <h3>Task Planner Web-App</h3>
-            <small>Developed a user-friendly To-Do List/Planner application using React
+            <h3>TaskEase-To-do List Web-App</h3>
+            <small>Developed a user-friendly To-Do List/task tackler application using React
               and local storage.
               Implemented features for adding, editing, and deleting tasks with a
               seamless user interface.
-              Technologies used: HTML, CSS, React.js, Bootstrap, Local storage
+              Technologies used: HTML, CSS, React.js, Bootstrap, MySQL
             </small>
             <div className="btns">
               <a href="https://github.com/afrahSK/TicTacToe" target='_blank' className='btn'>Github</a>

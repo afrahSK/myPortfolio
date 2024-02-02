@@ -13,14 +13,14 @@ const Skills = () => {
                             <FaClipboardCheck className='skill-det-icon' />
                             <div>
                                 <h4>Java</h4>
-                                <small>Advance</small>
+                                <small>Advanced</small>
                             </div>
                         </article>
                         <article>
                             <FaClipboardCheck className='skill-det-icon' />
                             <div>
                                 <h4>JavaScript</h4>
-                                <small>Advance</small>
+                                <small>Advanced</small>
                             </div>
                         </article>
                         <article>
@@ -53,14 +53,14 @@ const Skills = () => {
                             <FaClipboardCheck className='skill-det-icon' />
                             <div>
                                 <h4>React.js</h4>
-                                <small>Advance</small>
+                                <small>Advanced</small>
                             </div>
                         </article>
                         <article>
                             <FaClipboardCheck className='skill-det-icon' />
                             <div>
                                 <h4>Node.js</h4>
-                                <small>Advance</small>
+                                <small>Intermediate</small>
                             </div>
                         </article>
                         <article>
@@ -74,7 +74,7 @@ const Skills = () => {
                             <FaClipboardCheck className='skill-det-icon' />
                             <div>
                                 <h4>Tkinter</h4>
-                                <small>Intermediate</small>
+                                <small>Novice</small>
                             </div>
                         </article>
                     </div>
