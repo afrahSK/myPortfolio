@@ -45,7 +45,7 @@ const Portfolio = () => {
               Technologies used: HTML, CSS, React.js, Bootstrap, MySQL
             </small>
             <div className="btns">
-              <a href="https://github.com/afrahSK/TicTacToe" target='_blank' className='btn'>Github</a>
+              <a href="https://github.com/afrahSK/ToDoApp" target='_blank' className='btn'>Github</a>
               {/* <a href="#" target='_blank' className='btn'>Live Demo</a> */}
             </div>
           </div>
