@@ -8,6 +8,7 @@ const About = () => {
                 <div className="ab-cards">
                     <article className="ab-card">
                         <h5>Education</h5>
+                        <small>Master of Computer Applications - Nirma University<br />(2024-26)</small><br/>
                         <small>Bachelor of Computer Applications<br />(2021-24)</small>
                     </article>
                 </div>

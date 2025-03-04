@@ -37,13 +37,6 @@ const Skills = () => {
                                 <small>Intermediate</small>
                             </div>
                         </article>
-                        <article>
-                            <FaClipboardCheck className='skill-det-icon' />
-                            <div>
-                                <h4>C#</h4>
-                                <small>Novice</small>
-                            </div>
-                        </article>
                     </div>
                 </div>
                 <div className="skill-frameworks">
@@ -73,7 +66,7 @@ const Skills = () => {
                         <article>
                             <FaClipboardCheck className='skill-det-icon' />
                             <div>
-                                <h4>Tkinter</h4>
+                                <h4>Flask</h4>
                                 <small>Novice</small>
                             </div>
                         </article>
@@ -105,6 +98,10 @@ const Skills = () => {
                         <article>
                             <FaClipboardCheck className='skill-det-icon' />
                             <h4>Git</h4>
+                        </article>
+                        <article>
+                            <FaClipboardCheck className='skill-det-icon' />
+                            <h4>docker</h4>
                         </article>
                     </div>
                 </div>

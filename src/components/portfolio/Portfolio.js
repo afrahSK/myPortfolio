@@ -6,6 +6,8 @@ import tic1 from '../../images/tic1.png'
 import tic2 from '../../images/tic2.png'
 import planner1 from '../../images/planner1.png'
 import planner2 from '../../images/planner2.png'
+import summ1 from '../../images/summ1.png'
+import summ2 from '../../images/summ2.png'
 // import logo from '../../images/a (1).png';
 const Portfolio = () => {
   return (
@@ -14,6 +16,25 @@ const Portfolio = () => {
       <h3>These are the projects that I have worked on or I am currently working on.</h3>
       <div className="container proj-cont">
         {/* project 1 */}
+        <article className="project">
+          <div className="proj-left">
+            <h3>YouTube Video Summarizer</h3>
+            <small>A web app that summarizes YouTube videos using LLM. 
+            Users enter a YouTube video URL, and the web app provides video details, and summary of the video, which users can 
+            download as a text file.<br />
+            Technologies used: React, Flask, Gemini LLM, Youtube Transcript API, Youtube Data APi, CSS
+            </small>
+            <div className="btns">
+              <a href="https://github.com/afrahSK/YoutubeVideoSummarizer" target='_blank' className='btn'>Github</a>
+              {/* <a href="#" target='_blank' className='btn'>Live Demo</a> */}
+            </div>
+          </div>
+          <div className="proj-right">
+            <img className='img' src={summ1} alt="summarizer" />
+            <img className='img' src={summ2} alt="summarizer" />
+          </div>
+        </article>
+        {/* project 2 */}
         <article className="project">
           <div className="proj-left">
             <h3>DictApp-Web based Dictionary Application</h3>
@@ -33,7 +54,7 @@ const Portfolio = () => {
             <img className='img' src={dict2} alt="dictApp" />
           </div>
         </article>
-        {/* project 2 */}
+        {/* project 3 */}
 
         <article className="project">
           <div className="proj-left">
@@ -54,7 +75,7 @@ const Portfolio = () => {
             <img className='img tic' src={planner2} alt="planner" />
           </div>
         </article>
-        {/* project 3 */}
+        {/* project 4 */}
 
         <article className="project">
           <div className="proj-left">
