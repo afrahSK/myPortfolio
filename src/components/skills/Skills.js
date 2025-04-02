@@ -66,6 +66,13 @@ const Skills = () => {
                         <article>
                             <FaClipboardCheck className='skill-det-icon' />
                             <div>
+                                <h4>TailwindCSS</h4>
+                                <small>Novice</small>
+                            </div>
+                        </article>
+                        <article>
+                            <FaClipboardCheck className='skill-det-icon' />
+                            <div>
                                 <h4>Flask</h4>
                                 <small>Novice</small>
                             </div>
