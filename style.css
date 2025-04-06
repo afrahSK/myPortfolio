@@ -10,15 +10,16 @@ body{
     background-color: #0F1035; 
     background-color: #DCF2F1;  */
     /* background-color: rgb(24, 61, 88);  later*/
-    color: #0f1143;
+    /* color: #0f1143;
     color: #4db5ff;
     color: #2c2c6c;
     color: #1f1838;
     color: rgba(255,255,255,0.6);
-    color: rgba(77,181,255,0.4);
+    color: rgba(77,181,255,0.4); */
     margin: 0;
     padding: 0;
     background-color: rgba(215, 215, 215, 0.6);
+    /* background-color: rgba(255, 0, 0, 0.6); */
     overflow: hidden;
     overflow-y: scroll;
 }
